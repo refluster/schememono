@@ -25,7 +25,7 @@ hr {
 #header #navi {
     text-align: center;
 }
-#header #navi a {
+#header #navi div {
     display: inline-block;
     width: 88px;
     height: 28px;
@@ -44,4 +44,17 @@ hr {
     background-color: #555555;
     height: 35px;
     line-height: 35px;
+}
+div.project ul {
+	background-color: white;
+	margin-top: 10px;
+	width: 88px;
+	position: absolute;
+	list-style-type: none;
+	visibility: hidden;
+	transition: visibility 0s linear 0.5s;
+}
+div.project:hover ul {
+	visibility: visible;
+	transition: visibility;
 }
