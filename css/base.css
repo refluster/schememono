@@ -1,10 +1,9 @@
 * {
     margin: 0px;
     padding: 0px;
-    //color: #8b8b8b;
-    color: #606060;
 }
 body {
+    color: #606060;
     width: 980px;
     text-align: center
 					font-family: Arial, Helvetica, sans-serif;
