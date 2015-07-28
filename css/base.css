@@ -30,6 +30,37 @@ a {
 	margin: 30px 0px;
 	text-decoration: underline;
 }
+.logo-w-stripe {
+	background: -webkit-gradient(-45deg, #ddd 5%, #fff 5%, #fff 45%, #ddd 45%,
+								 #ddd 55%, #fff 55%, #fff 95%, #ddd 95%, #ddd);
+	background: -moz-linear-gradient(-45deg, #ddd 5%, #fff 5%, #fff 45%, #ddd 45%,
+									 #ddd 55%, #fff 55%, #fff 95%, #ddd 95%, #ddd);
+	background: -ms-linear-gradient(-45deg, #ddd 5%, #fff 5%, #fff 45%, #ddd 45%,
+									#ddd 55%, #fff 55%, #fff 95%, #ddd 95%, #ddd);
+	background: -o-linear-gradient(-45deg, #ddd 5%, #fff 5%, #fff 45%, #ddd 45%,
+								   #ddd 55%, #fff 55%, #fff 95%, #ddd 95%, #ddd);
+	background: linear-gradient(-45deg, #ddd 5%, #fff 5%, #fff 45%, #ddd 45%,
+								#ddd 55%, #fff 55%, #fff 95%, #ddd 95%, #ddd);
+	display: block;
+	text-decoration: none;
+	height: 60px;
+	line-height: 60px;
+	background-size: 8px 8px;
+	color: black;
+	text-decoration: none;
+	font-family: "Quicksand", "Century Gothic", sans-serif;
+	font-weight: 500;
+	font-size: 34px;
+	letter-spacing: 1px;
+	padding-left: 32px;
+}
+.logo-mid {
+	text-decoration: none;
+	font-family: "Quicksand", "Century Gothic", sans-serif;
+	font-weight: 500;
+	font-size: 26px;
+	letter-spacing: 1px;
+}
 #header {
 }
 #header #navi {
