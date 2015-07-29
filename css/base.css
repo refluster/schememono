@@ -25,6 +25,10 @@ a {
 	margin: 40px auto;
 	text-align: center;
 }
+.center-wide {
+	width: 830px;
+	margin: 40px auto;
+}
 .left {
 	width: 526px;
 	margin: 40px 30px;
@@ -72,6 +76,34 @@ a {
 .column-break {
 	clear: both;
 }
+.under {
+	position: relative;
+	vertical-align: center;
+}
+.left-on {
+	color: #eee;
+	width: 340px;
+	right: 40px;
+	position: absolute;
+	top: 40px;
+	right: 30px;
+}
+h1.page-title {
+	margin-bottom: 30px;
+}
+div.project ul {
+	background-color: white;
+	margin-top: 10px;
+	width: 88px;
+	position: absolute;
+	list-style-type: none;
+	visibility: hidden;
+	transition: visibility 0s linear 0.5s;
+}
+div.project:hover ul {
+	visibility: visible;
+	transition: visibility;
+}
 #header {
 }
 #header #navi {
@@ -96,17 +128,4 @@ a {
     background-color: #555555;
     height: 35px;
     line-height: 35px;
-}
-div.project ul {
-	background-color: white;
-	margin-top: 10px;
-	width: 88px;
-	position: absolute;
-	list-style-type: none;
-	visibility: hidden;
-	transition: visibility 0s linear 0.5s;
-}
-div.project:hover ul {
-	visibility: visible;
-	transition: visibility;
 }
