@@ -1,80 +1,78 @@
-<svg width="400" height="280" xmlns="http://www.w3.org/2000/svg">
+<svg width="300" height="210" xmlns="http://www.w3.org/2000/svg">
  <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
  <defs>
-  <marker id="se_marker_end_svg_65" markerUnits="strokeWidth" orient="auto" viewBox="0 0 100 100" markerWidth="5" markerHeight="5" refX="50" refY="50">
-   <path id="svg_29" d="m100,50l-100,40l30,-40l-30,-40l100,40z" fill="#000000" stroke="#000000" stroke-width="10"/>
+  <marker refY="50" refX="50" markerHeight="5" markerWidth="5" viewBox="0 0 100 100" orient="auto" markerUnits="strokeWidth" id="se_marker_end_svg_65">
+   <path stroke-width="10" stroke="#000000" fill="#000000" d="m100,50l-100,40l30,-40l-30,-40l100,40z" id="svg_29"/>
   </marker>
-  <marker id="se_marker_end_svg_66" markerUnits="strokeWidth" orient="auto" viewBox="0 0 100 100" markerWidth="5" markerHeight="5" refX="50" refY="50">
-   <path id="svg_41" d="m100,50l-100,40l30,-40l-30,-40l100,40z" fill="#000000" stroke="#000000" stroke-width="10"/>
+  <marker refY="50" refX="50" markerHeight="5" markerWidth="5" viewBox="0 0 100 100" orient="auto" markerUnits="strokeWidth" id="se_marker_end_svg_66">
+   <path stroke-width="10" stroke="#000000" fill="#000000" d="m100,50l-100,40l30,-40l-30,-40l100,40z" id="svg_41"/>
   </marker>
-  <marker id="se_marker_end_svg_67" markerUnits="strokeWidth" orient="auto" viewBox="0 0 100 100" markerWidth="5" markerHeight="5" refX="50" refY="50">
-   <path id="svg_42" d="m100,50l-100,40l30,-40l-30,-40l100,40z" fill="#000000" stroke="#000000" stroke-width="10"/>
+  <marker refY="50" refX="50" markerHeight="5" markerWidth="5" viewBox="0 0 100 100" orient="auto" markerUnits="strokeWidth" id="se_marker_end_svg_67">
+   <path stroke-width="10" stroke="#000000" fill="#000000" d="m100,50l-100,40l30,-40l-30,-40l100,40z" id="svg_42"/>
   </marker>
  </defs>
  <g>
   <title>Layer 1</title>
-  <line fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="null" stroke-linecap="null" x1="180" y1="220" x2="190" y2="220" id="svg_20"/>
-  <circle fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="null" stroke-linecap="null" cx="210" cy="210" r="30" id="svg_18"/>
-  <line fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="null" stroke-linecap="null" x1="200" y1="220" x2="210" y2="220" id="svg_21"/>
-  <line fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="null" stroke-linecap="null" x1="180" y1="210" x2="240" y2="210" id="svg_19"/>
-  <line fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="null" stroke-linecap="null" x1="220" y1="220" x2="230" y2="220" id="svg_22"/>
-  <line fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="null" stroke-linecap="null" x1="190" y1="230" x2="200" y2="230" id="svg_23"/>
-  <line fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="null" stroke-linecap="null" x1="210" y1="230" x2="220" y2="230" id="svg_24"/>
-  <line fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="null" stroke-linecap="null" x1="200" y1="240" x2="210" y2="240" id="svg_25"/>
+  <line id="svg_20" y2="220" x2="190" y1="220" x1="180" stroke-linecap="null" stroke-linejoin="null" stroke-width="1.5" stroke="#000000" fill="none"/>
+  <circle id="svg_18" r="30" cy="212" cx="205" stroke-linecap="null" stroke-linejoin="null" stroke-width="1.5" stroke="#000000" fill="none"/>
+  <line id="svg_21" y2="220" x2="210" y1="220" x1="200" stroke-linecap="null" stroke-linejoin="null" stroke-width="1.5" stroke="#000000" fill="none"/>
+  <line id="svg_19" y2="212.5" x2="235" y1="212.5" x1="175" stroke-linecap="null" stroke-linejoin="null" stroke-width="1.5" stroke="#000000" fill="none"/>
+  <line id="svg_22" y2="220" x2="230" y1="220" x1="220" stroke-linecap="null" stroke-linejoin="null" stroke-width="1.5" stroke="#000000" fill="none"/>
+  <line id="svg_23" y2="228" x2="200" y1="228" x1="190" stroke-linecap="null" stroke-linejoin="null" stroke-width="1.5" stroke="#000000" fill="none"/>
+  <line id="svg_24" y2="228" x2="220" y1="228" x1="210" stroke-linecap="null" stroke-linejoin="null" stroke-width="1.5" stroke="#000000" fill="none"/>
+  <line id="svg_25" y2="234.5" x2="210" y1="234.5" x1="200" stroke-linecap="null" stroke-linejoin="null" stroke-width="1.5" stroke="#000000" fill="none"/>
   <g id="svg_40">
-   <circle fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="null" stroke-linecap="null" cx="289.8873" cy="212.8873" r="30" id="svg_27"/>
-   <circle fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="null" stroke-linecap="null" cx="289.8873" cy="212.8873" r="10" id="svg_28"/>
+   <circle id="svg_27" r="30" cy="212.8873" cx="289.8873" stroke-linecap="null" stroke-linejoin="null" stroke-width="1.5" stroke="#000000" fill="none"/>
+   <circle id="svg_28" r="10" cy="212.8873" cx="289.8873" stroke-linecap="null" stroke-linejoin="null" stroke-width="1.5" stroke="#000000" fill="none"/>
    <g id="svg_34">
-    <line fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="null" stroke-linecap="null" x1="289.8873" y1="198.8873" x2="289.8873" y2="190.8873" id="svg_30"/>
-    <line fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="null" stroke-linecap="null" x1="289.8873" y1="234.8873" x2="289.8873" y2="226.8873" id="svg_31"/>
-    <line fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="null" stroke-linecap="null" x1="267.8873" y1="212.8873" x2="275.8873" y2="212.8873" id="svg_32"/>
-    <line fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="null" stroke-linecap="null" x1="303.8873" y1="212.8873" x2="311.8873" y2="212.8873" id="svg_33"/>
+    <line id="svg_30" y2="190.8873" x2="289.8873" y1="198.8873" x1="289.8873" stroke-linecap="null" stroke-linejoin="null" stroke-width="1.5" stroke="#000000" fill="none"/>
+    <line id="svg_31" y2="226.8873" x2="289.8873" y1="234.8873" x1="289.8873" stroke-linecap="null" stroke-linejoin="null" stroke-width="1.5" stroke="#000000" fill="none"/>
+    <line id="svg_32" y2="212.8873" x2="275.8873" y1="212.8873" x1="267.8873" stroke-linecap="null" stroke-linejoin="null" stroke-width="1.5" stroke="#000000" fill="none"/>
+    <line id="svg_33" y2="212.8873" x2="311.8873" y1="212.8873" x1="303.8873" stroke-linecap="null" stroke-linejoin="null" stroke-width="1.5" stroke="#000000" fill="none"/>
    </g>
-   <g id="svg_35" transform="rotate(45 290,213) ">
-    <line fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="null" stroke-linecap="null" x1="290" y1="199" x2="290" y2="191" id="svg_36"/>
-    <line fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="null" stroke-linecap="null" x1="290" y1="235" x2="290" y2="227" id="svg_37"/>
-    <line fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="null" stroke-linecap="null" x1="268" y1="213" x2="276" y2="213" id="svg_38"/>
-    <line fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="null" stroke-linecap="null" x1="304" y1="213" x2="312" y2="213" id="svg_39"/>
+   <g id="svg_35">
+    <line id="svg_36" y2="191" x2="290" y1="199" x1="290" stroke-linecap="null" stroke-linejoin="null" stroke-width="1.5" stroke="#000000" fill="none"/>
+    <line id="svg_37" y2="227" x2="290" y1="235" x1="290" stroke-linecap="null" stroke-linejoin="null" stroke-width="1.5" stroke="#000000" fill="none"/>
+    <line id="svg_38" y2="213" x2="276" y1="213" x1="268" stroke-linecap="null" stroke-linejoin="null" stroke-width="1.5" stroke="#000000" fill="none"/>
+    <line id="svg_39" y2="213" x2="312" y1="213" x1="304" stroke-linecap="null" stroke-linejoin="null" stroke-width="1.5" stroke="#000000" fill="none"/>
    </g>
   </g>
-  <g id="svg_59">
-   <rect fill="none" stroke="#000000" stroke-width="2" x="68.25" y="181.25" width="60" height="60" rx="10" ry="10" id="svg_43"/>
-   <line fill="none" stroke="#000000" stroke-width="1.5" stroke-linejoin="null" stroke-linecap="null" x1="74" y1="187.25" x2="74" y2="235.25" id="svg_45"/>
-   <line fill="none" stroke="#bcbcbc" stroke-width="6" stroke-linejoin="null" stroke-linecap="null" x1="82.5" y1="205.5" x2="82.5" y2="234.75" id="svg_50"/>
-   <line fill="none" stroke="#bcbcbc" stroke-width="6" stroke-linejoin="null" stroke-linecap="null" x1="94" y1="215" x2="94" y2="235" id="svg_52"/>
-   <line fill="none" stroke="#bcbcbc" stroke-width="6" stroke-linejoin="null" stroke-linecap="null" x1="105.5" y1="190.5" x2="105.5" y2="235" id="svg_53"/>
-   <line fill="none" stroke="#bcbcbc" stroke-width="6" stroke-linejoin="null" stroke-linecap="null" x1="117.25" y1="218.75" x2="117.25" y2="234.75" id="svg_54"/>
-   <path fill="none" stroke="#000000" stroke-linejoin="null" stroke-linecap="null" id="svg_48" d="m80.5,222l12.5,-9l13,-22.25l13,6.25"/>
-   <path fill="none" stroke="#000000" stroke-linejoin="null" stroke-linecap="null" id="svg_49" d="m80.5,225.5l12.5,-9l13,6.25l12.75,-11.75"/>
-   <line fill="none" stroke="#000000" stroke-width="1.5" stroke-linejoin="null" stroke-linecap="null" x1="73.5" y1="235.25" x2="122" y2="235.25" id="svg_47"/>
-   <line fill="none" stroke="#000000" stroke-width="0.2" stroke-linejoin="null" stroke-linecap="null" x1="73" y1="195.25" x2="122" y2="195.25" id="svg_55"/>
-   <line fill="none" stroke="#000000" stroke-width="0.2" stroke-linejoin="null" stroke-linecap="null" x1="73" y1="205.25" x2="122" y2="205.25" id="svg_56"/>
-   <line fill="none" stroke="#000000" stroke-width="0.2" stroke-linejoin="null" stroke-linecap="null" x1="73" y1="215.25" x2="122" y2="215.25" id="svg_57"/>
-   <line fill="none" stroke="#000000" stroke-width="0.2" stroke-linejoin="null" stroke-linecap="null" x1="73" y1="225.25" x2="122" y2="225.25" id="svg_58"/>
-  </g>
-  <text fill="#000000" stroke="#000000" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" x="100" y="170" id="svg_60" font-size="16" font-family="Sans-serif" text-anchor="middle" xml:space="preserve">analysis</text>
-  <text fill="#000000" stroke="#000000" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" x="210" y="170" font-size="16" font-family="Sans-serif" text-anchor="middle" xml:space="preserve" id="svg_61">moisture</text>
-  <text fill="#000000" stroke="#000000" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" x="290" y="170" font-size="16" font-family="Sans-serif" text-anchor="middle" xml:space="preserve" id="svg_62">brightness</text>
-  <text fill="#000000" stroke="#000000" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" x="140" y="30" font-size="16" font-family="Sans-serif" text-anchor="middle" xml:space="preserve" id="svg_63">mist generator</text>
-  <text fill="#000000" stroke="#000000" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" x="260" y="30" id="svg_64" font-size="16" font-family="Sans-serif" text-anchor="middle" xml:space="preserve">lightning</text>
-  <path fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="null" stroke-linecap="null" id="svg_65" marker-end="url(#se_marker_end_svg_65)" d="m313.00009,74l65.99991,0l0,140l-26,0"/>
-  <path fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="null" stroke-linecap="null" d="m51,212l-31,0l0,-140l53,0" id="svg_66" marker-end="url(#se_marker_end_svg_66)"/>
-  <line fill="none" stroke="#000000" stroke-linejoin="null" stroke-linecap="null" x1="160" y1="210" x2="150" y2="210" id="svg_67" stroke-width="2" marker-end="url(#se_marker_end_svg_67)"/>
+  <rect id="svg_43" ry="10" rx="10" height="60" width="60" y="181.25" x="68.25" stroke-width="1.5" stroke="#000000" fill="none"/>
+  <line id="svg_45" y2="235.25" x2="74" y1="187.25" x1="74" stroke-linecap="null" stroke-linejoin="null" stroke-width="1.5" stroke="#000000" fill="none"/>
+  <line id="svg_50" y2="234.75" x2="82.5" y1="205.5" x1="82.5" stroke-linecap="null" stroke-linejoin="null" stroke-width="6" stroke="#bcbcbc" fill="none"/>
+  <line id="svg_52" y2="235" x2="94" y1="215" x1="94" stroke-linecap="null" stroke-linejoin="null" stroke-width="6" stroke="#bcbcbc" fill="none"/>
+  <line id="svg_53" y2="235" x2="105.5" y1="190.5" x1="105.5" stroke-linecap="null" stroke-linejoin="null" stroke-width="6" stroke="#bcbcbc" fill="none"/>
+  <line id="svg_54" y2="234.75" x2="117.25" y1="218.75" x1="117.25" stroke-linecap="null" stroke-linejoin="null" stroke-width="6" stroke="#bcbcbc" fill="none"/>
+  <path d="m80.5,222l12.5,-9l13,-22.25l13,6.25" id="svg_48" stroke-linecap="null" stroke-linejoin="null" stroke="#000000" fill="none"/>
+  <path d="m80.5,225.5l12.5,-9l13,6.25l12.75,-11.75" id="svg_49" stroke-linecap="null" stroke-linejoin="null" stroke="#000000" fill="none"/>
+  <line id="svg_47" y2="235.25" x2="122" y1="235.25" x1="73.5" stroke-linecap="null" stroke-linejoin="null" stroke-width="1.5" stroke="#000000" fill="none"/>
+  <line id="svg_55" y2="195.25" x2="122" y1="195.25" x1="73" stroke-linecap="null" stroke-linejoin="null" stroke-width="0.2" stroke="#000000" fill="none"/>
+  <line id="svg_56" y2="205.25" x2="122" y1="205.25" x1="73" stroke-linecap="null" stroke-linejoin="null" stroke-width="0.2" stroke="#000000" fill="none"/>
+  <line id="svg_57" y2="215.25" x2="122" y1="215.25" x1="73" stroke-linecap="null" stroke-linejoin="null" stroke-width="0.2" stroke="#000000" fill="none"/>
+  <line id="svg_58" y2="225.25" x2="122" y1="225.25" x1="73" stroke-linecap="null" stroke-linejoin="null" stroke-width="0.2" stroke="#000000" fill="none"/>
+  <text xml:space="preserve" text-anchor="middle" font-family="Sans-serif" font-size="16" id="svg_60" y="170" x="100.5" stroke-linecap="null" stroke-linejoin="null" stroke-width="1.5" stroke="#000000" fill="none">analysis</text>
+  <text id="svg_61" xml:space="preserve" text-anchor="middle" font-family="Sans-serif" font-size="16" y="170" x="210" stroke-linecap="null" stroke-linejoin="null" stroke-width="1.5" stroke="#000000" fill="none">moisture</text>
+  <text id="svg_62" xml:space="preserve" text-anchor="middle" font-family="Sans-serif" font-size="16" y="170" x="290" stroke-linecap="null" stroke-linejoin="null" stroke-width="0" stroke="#000000" fill="#000000">brightness</text>
+  <text id="svg_63" xml:space="preserve" text-anchor="middle" font-family="Sans-serif" font-size="16" y="30" x="140" stroke-linecap="null" stroke-linejoin="null" stroke-width="0" stroke="#000000" fill="#000000">mist generator</text>
+  <text xml:space="preserve" text-anchor="middle" font-family="Sans-serif" font-size="16" id="svg_64" y="30" x="260" stroke-linecap="null" stroke-linejoin="null" stroke-width="0" stroke="#000000" fill="#000000">lightning</text>
+  <path d="m313.00009,74l65.99991,0l0,140l-26,0" marker-end="url(#se_marker_end_svg_65)" id="svg_65" stroke-linecap="null" stroke-linejoin="null" stroke-width="1.5" stroke="#000000" fill="none"/>
+  <path marker-end="url(#se_marker_end_svg_66)" id="svg_66" d="m51,212l-31,0l0,-140l53,0" stroke-linecap="null" stroke-linejoin="null" stroke-width="1.5" stroke="#000000" fill="none"/>
+  <line marker-end="url(#se_marker_end_svg_67)" stroke-width="1.5" id="svg_67" y2="210" x2="150" y1="210" x1="160" stroke-linecap="null" stroke-linejoin="null" stroke="#000000" fill="none"/>
   <g id="svg_44">
-   <line fill="none" stroke="#000000" stroke-width="4" stroke-linejoin="null" stroke-linecap="null" x1="230" y1="57" x2="297.04561" y2="57" id="svg_7"/>
-   <rect fill="none" stroke="#000000" stroke-width="1.5" x="229.5" y="45" width="68" height="68" rx="10" ry="10" id="svg_5"/>
-   <line fill="none" stroke="#000000" stroke-width="3.5" stroke-linejoin="null" stroke-linecap="null" x1="230" y1="63" x2="297" y2="63" id="svg_8"/>
-   <line fill="none" stroke="#000000" stroke-width="3" stroke-linejoin="null" stroke-linecap="null" x1="230" y1="69" x2="297" y2="69" id="svg_11"/>
-   <line fill="none" stroke="#000000" stroke-width="2.5" stroke-linejoin="null" stroke-linecap="null" x1="230" y1="75" x2="297" y2="75" id="svg_12"/>
-   <line fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="null" stroke-linecap="null" x1="230" y1="81" x2="297" y2="81" id="svg_13"/>
-   <line fill="none" stroke="#000000" stroke-width="1.5" stroke-linejoin="null" stroke-linecap="null" x1="230" y1="87" x2="297" y2="87" id="svg_14"/>
-   <line fill="none" stroke="#000000" stroke-linejoin="null" stroke-linecap="null" x1="230" y1="93" x2="297" y2="93" id="svg_15"/>
-   <line fill="none" stroke="#000000" stroke-width="0.5" stroke-linejoin="null" stroke-linecap="null" x1="230" y1="99" x2="297.5" y2="99" id="svg_16"/>
+   <line id="svg_7" y2="57" x2="297.04561" y1="57" x1="230" stroke-linecap="null" stroke-linejoin="null" stroke-width="4" stroke="#000000" fill="none"/>
+   <rect id="svg_5" ry="10" rx="10" height="68" width="68" y="45" x="229.5" stroke-width="1.5" stroke="#000000" fill="none"/>
+   <line id="svg_8" y2="63" x2="297" y1="63" x1="230" stroke-linecap="null" stroke-linejoin="null" stroke-width="3.5" stroke="#000000" fill="none"/>
+   <line id="svg_11" y2="69" x2="297" y1="69" x1="230" stroke-linecap="null" stroke-linejoin="null" stroke-width="3" stroke="#000000" fill="none"/>
+   <line id="svg_12" y2="75" x2="297" y1="75" x1="230" stroke-linecap="null" stroke-linejoin="null" stroke-width="2.5" stroke="#000000" fill="none"/>
+   <line id="svg_13" y2="81" x2="297" y1="81" x1="230" stroke-linecap="null" stroke-linejoin="null" stroke-width="2" stroke="#000000" fill="none"/>
+   <line id="svg_14" y2="87" x2="297" y1="87" x1="230" stroke-linecap="null" stroke-linejoin="null" stroke-width="1.5" stroke="#000000" fill="none"/>
+   <line id="svg_15" y2="93" x2="297" y1="93" x1="230" stroke-linecap="null" stroke-linejoin="null" stroke="#000000" fill="none"/>
+   <line id="svg_16" y2="99" x2="297.5" y1="99" x1="230" stroke-linecap="null" stroke-linejoin="null" stroke-width="0.5" stroke="#000000" fill="none"/>
   </g>
   <g id="svg_46">
-   <path fill="#cccccc" stroke="#000000" stroke-width="1.5" stroke-linejoin="null" stroke-linecap="null" id="svg_3" d="m109,59.4998c9,0 17,0.1427 27,0c10,-0.1427 11,11.6792 -1,11.9637l15.48599,-0.4272c10.5,-0.7119 12.01401,11.821 0.51401,11.5364l-42,0.4273l0,-23.5002l0,0z"/>
-   <rect fill="none" stroke="#000000" stroke-width="1.5" x="109" y="46" width="68" height="68" id="svg_1" rx="10" ry="10"/>
-   <path fill="#cccccc" stroke="#000000" stroke-width="1.5" stroke-linejoin="null" stroke-linecap="null" d="m130.64301,89.9994c9,0 19.5,0.0971 27,0c7.5,-0.0972 6.5,7.952 -1,8.14571l15.48599,-0.2909c8,-0.4846 7.48601,8.0488 0.51401,7.8548l-42,0.291l0,-16.0006l0,0z" id="svg_4" transform="rotate(-180 153.74330139160156,97.99925994873045) "/>
+   <path d="m109,59.4998c9,0 17,0.1427 27,0c10,-0.1427 11,11.6792 -1,11.9637l15.48599,-0.4272c10.5,-0.7119 12.01401,11.821 0.51401,11.5364l-42,0.4273l0,-23.5002l0,0z" id="svg_3" stroke-linecap="null" stroke-linejoin="null" stroke-width="1.5" stroke="#000000" fill="#cccccc"/>
+   <rect ry="10" rx="10" id="svg_1" height="68" width="68" y="46" x="109" stroke-width="1.5" stroke="#000000" fill="none"/>
+   <path id="svg_4" d="m130.64301,89.9994c9,0 19.5,0.0971 27,0c7.5,-0.0972 6.5,7.952 -1,8.14571l15.48599,-0.2909c8,-0.4846 7.48601,8.0488 0.51401,7.8548l-42,0.291l0,-16.0006l0,0l0,0l0,0l0,0z" stroke-linecap="null" stroke-linejoin="null" stroke-width="1.5" stroke="#000000" fill="#cccccc"/>
   </g>
  </g>
 </svg>
