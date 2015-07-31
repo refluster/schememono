@@ -98,7 +98,7 @@ h3 {
 .column-break {
 	clear: both;
 }
-.under {
+.frame {
 	height: 280px;
 }
 .white {
@@ -188,16 +188,10 @@ hr.small {
 		width: 100%;
 		margin: 30px 0px;
 	}
-	.under {
-		height: 280px;
-		position: relative;
-		vertical-align: center;
-	}
 	.left-on {
 		width: 100%;
 		position: absolute;
 		top: 280px;
 		right: 0px;
 	}
-	
 }
