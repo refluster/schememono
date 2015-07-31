@@ -34,6 +34,11 @@ a {
 	width: 40%;
 	display: inline-block;
 }
+.right-60 {
+	display: inline-block;
+	width: 59%;
+	text-align: right;
+}
 .h3 {
 	margin: 30px 0px;
 	text-decoration: underline;
@@ -78,6 +83,7 @@ a {
 	clear: both;
 }
 .under {
+	height: 280px;
 	position: relative;
 	vertical-align: center;
 }
