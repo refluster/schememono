@@ -101,8 +101,10 @@ h3 {
 .under {
 	height: 280px;
 }
-.left-on {
+.white {
 	color: #eee;
+}
+.left-on {
 	width: 340px;
 	position: absolute;
 	top: 40px;
