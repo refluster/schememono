@@ -171,12 +171,26 @@ hr.small {
 		padding: 0px;
 		margin: 10px 0px;
 	}
+	.frame {
+		overflow-y: visible;
+		padding-top: 30px;
+		padding-bottom: 30px;
+		height: auto;
+	}
 	.left-40 {
 		width: 100%;
 		display: block;
 	}
 	.right-60 {
 		width: 100%;
+	}
+	.left-50 {
+		width: 100%;
+		display: block;
+	}
+	.right-50 {
+		width: 100%;
+		display: block;
 	}
 	.center-wide {
 		width: 100%;
