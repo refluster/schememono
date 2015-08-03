@@ -193,4 +193,8 @@ hr.small {
 		width: 92%;
 		margin: 0px auto;
 	}
+	.logo-w-stripe {
+		padding-left: 0px;
+		text-align: center;
+	}
 }
