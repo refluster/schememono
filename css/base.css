@@ -198,6 +198,9 @@ hr.small {
 		width: auto;
 		margin: 40px 0px;
 	}
+	.navi-hidden {
+		display: none;
+	}
 	#content {
 		width: 92%;
 		margin: 0px auto;
@@ -217,8 +220,19 @@ hr.small {
 	#header h1 {
 		display: block;
 	}
-	#navi {
-		display: none;
+	#header #navi {
+		position: absolute;
+		z-index: 2;
+		background-color: #eee;
+		width: 80%;
+	}
+	#header #navi div {
+		display: block;
+		width: 88px;
+		height: 28px;
+		line-height: 28px;
+		font: normal normal normal 16px/1.4em enriqueta,serif;
+		text-align: left;
 	}
 	#menu-button {
 		display: block;
