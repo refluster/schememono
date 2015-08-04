@@ -151,6 +151,15 @@ hr.small {
     height: 35px;
     line-height: 35px;
 }
+#menu-button {
+	position: absolute;
+	display: none;
+	height: 100%;
+	width: 40px;
+	left: 0;
+	top: 0;
+	background-color: red;
+}
 
 @media screen and (max-width:479px) {
 	body {
@@ -197,4 +206,22 @@ hr.small {
 		padding-left: 0px;
 		text-align: center;
 	}
+	#header {
+		position: fixed;
+		width: 100%;
+		margin-bottom: 30px;
+	}
+	#content {
+		padding-top: 80px;
+	}
+	#header h1 {
+		display: block;
+	}
+	#navi {
+		display: none;
+	}
+	#menu-button {
+		display: block;
+	}
 }
+
