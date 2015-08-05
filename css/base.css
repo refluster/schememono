@@ -198,9 +198,6 @@ hr.small {
 		width: auto;
 		margin: 40px 0px;
 	}
-	.navi-hidden {
-		display: none;
-	}
 	#content {
 		width: 92%;
 		margin: 0px auto;
@@ -221,10 +218,25 @@ hr.small {
 		display: block;
 	}
 	#header #navi {
-		position: absolute;
+		position: fixed;
+		top: 0;
 		z-index: 2;
 		background-color: #eee;
-		width: 80%;
+		width: 240px;
+		height: 100%;
+
+		-webkit-transition-property: transform;
+		-moz-transition-property: transform;
+		-o-transition-property: transform;
+		transition-property: transform;
+		-webkit-transition-duration: .2s;
+		-moz-transition-duration: .2s;
+		-o-transition-duration: .2s;
+		transition-duration: .2s;
+	}
+	.navi-hidden {
+		transform: translate(-240px, 0px);
+		-webkit-transform: translate(-240px, 0px);
 	}
 	#header #navi div {
 		display: block;
