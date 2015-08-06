@@ -4,8 +4,9 @@ var Menu = function() {
 	this.naviBg = $("#navi-bg");
 	
 	this.hidden();
-	this.menuButton.click(this.show.bind(this));
-	this.naviBg.click(this.hidden.bind(this));
+
+	this.menuButton.bind('touchend', this.show.bind(this));
+	this.naviBg.bind('touchend', this.hidden.bind(this));
 };
 Menu.prototype.show = function() {
 	this.navi.removeClass("navi-hidden");
@@ -18,4 +19,10 @@ Menu.prototype.hidden = function() {
 
 $(function() {
 	var menu = new Menu();
+
+	$('a').each(function() {
+		$(this).bind('touchend', function(e) {
+			$(location).attr('href', $(this).attr('href'));
+		}.bind(this));
+	});
 });
