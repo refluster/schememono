@@ -242,6 +242,7 @@ hr.small {
 		background-color: #eee;
 		width: 240px;
 		height: 100%;
+		box-shadow: 3px 0px 5px rgba(0,0,0,0.26);
 
 		-webkit-transition-property: transform;
 		-moz-transition-property: transform;
