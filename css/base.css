@@ -149,6 +149,30 @@ hr.small {
     box-sizing: border-box;
     font: normal normal normal 16px/1.4em enriqueta,serif;
 }
+#header #navi .logo {
+	margin: 0px;
+	display: none;
+	width: auto;
+	height: 160px;
+	line-height: 160px;
+	text-align: center;
+	margin-bottom: 24px;
+	border-bottom: 4px solid #ccc;
+	font-family: "Quicksand", "Century Gothic", sans-serif;
+	font-size: 24px;
+
+	background: -webkit-gradient(-45deg, #ddd 5%, #fff 5%, #fff 45%, #ddd 45%,
+								 #ddd 55%, #fff 55%, #fff 95%, #ddd 95%, #ddd);
+	background: -moz-linear-gradient(-45deg, #ddd 5%, #fff 5%, #fff 45%, #ddd 45%,
+									 #ddd 55%, #fff 55%, #fff 95%, #ddd 95%, #ddd);
+	background: -ms-linear-gradient(-45deg, #ddd 5%, #fff 5%, #fff 45%, #ddd 45%,
+									#ddd 55%, #fff 55%, #fff 95%, #ddd 95%, #ddd);
+	background: -o-linear-gradient(-45deg, #ddd 5%, #fff 5%, #fff 45%, #ddd 45%,
+								   #ddd 55%, #fff 55%, #fff 95%, #ddd 95%, #ddd);
+	background: linear-gradient(-45deg, #ddd 5%, #fff 5%, #fff 45%, #ddd 45%,
+								#ddd 55%, #fff 55%, #fff 95%, #ddd 95%, #ddd);
+	background-size: 8px 8px;
+}
 #content {
 
 }
@@ -249,7 +273,6 @@ hr.small {
 		width: 240px;
 		height: 100%;
 		box-shadow: 3px 0px 5px rgba(0,0,0,0.26);
-		padding: 16px 0px;
 
 		-webkit-transition-property: transform;
 		-moz-transition-property: transform;
@@ -260,6 +283,9 @@ hr.small {
 		-o-transition-duration: .2s;
 		transition-duration: .2s;
 	}
+	#header #navi .logo {
+		display: block;
+	}
 	.navi-hidden {
 		transform: translate(-246px, 0px);
 		-webkit-transform: translate(-246px, 0px);
@@ -268,7 +294,7 @@ hr.small {
 		display: block;
 		width: 100%;
 		height: auto;
-		margin: 8px 24px;
+		margin: 16px 24px;
 		font: normal normal normal 16px/1.4em enriqueta,serif;
 		text-align: left;
 	}
